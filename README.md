@@ -2,6 +2,15 @@
 
 TODO: Write a gem description
 
+## Todo
+
+* Set up testing environment and CI server
+* Set up codeclimate
+* Create ruby version of tuple and any other missing language features
+* Map out the scikit-learn api with TDD
+* Implement rubify for built in scikit objects
+* Write documentation
+
 ## Installation
 
 Add this line to your application's Gemfile:
