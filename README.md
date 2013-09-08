@@ -1,4 +1,4 @@
-# RubyScikitLearn [![Build Status](https://travis-ci.org/ruby-scikit-learn/ruby_scikit_learn.png)](https://travis-ci.org/ruby-scikit-learn/ruby_scikit_learn)
+# RubyScikitLearn [![Code Climate](https://codeclimate.com/github/ruby-scikit-learn/ruby_scikit_learn.png)](https://codeclimate.com/github/ruby-scikit-learn/ruby_scikit_learn) [![Build Status](https://travis-ci.org/ruby-scikit-learn/ruby_scikit_learn.png)](https://travis-ci.org/ruby-scikit-learn/ruby_scikit_learn)
 
 TODO: Write a gem description
 
@@ -6,9 +6,9 @@ TODO: Write a gem description
 
 * Set up testing environment and CI server
 * Set up codeclimate
-* Create ruby version of tuple and any other missing language features
 * Map out the scikit-learn api with TDD
 * Implement rubify for built in scikit objects
+* Create ruby version of tuple and any other missing language features
 * Write documentation
 
 ## Installation
