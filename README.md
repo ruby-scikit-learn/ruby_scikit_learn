@@ -1,4 +1,4 @@
-# RubyScikitLearn [![Build Status](https://travis-ci.org/ruby-scikit-learn/ruby_scikit_learn.png)](https://travis-ci.org/ruby-scikit-learn/ruby_scikit_learn)
+# RubyScikitLearn [![Code Climate](https://codeclimate.com/github/ruby-scikit-learn/ruby_scikit_learn.png)](https://codeclimate.com/github/ruby-scikit-learn/ruby_scikit_learn) [![Build Status](https://travis-ci.org/ruby-scikit-learn/ruby_scikit_learn.png)](https://travis-ci.org/ruby-scikit-learn/ruby_scikit_learn)
 
 TODO: Write a gem description
 
