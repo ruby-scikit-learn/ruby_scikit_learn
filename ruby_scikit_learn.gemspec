@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = RubyScikitLearn::VERSION
   gem.authors       = ["Andreas Hjortgaard Danielsen"]
   gem.email         = ["andreashd@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "Ruby wrapper for scikit-learn"
+  gem.summary       = "Ruby wrapper for scikit-learn"
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
